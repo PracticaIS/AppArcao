@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ISa1415AppArcaoCod/!svn/ver/250/trunk/src/AppArcao/Presentacion/Plaza
+END
+VentanaBorrarPlaza.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ISa1415AppArcaoCod/!svn/ver/256/trunk/src/AppArcao/Presentacion/Plaza/VentanaBorrarPlaza.java
+END
+VentanaMostrarPlaza.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ISa1415AppArcaoCod/!svn/ver/256/trunk/src/AppArcao/Presentacion/Plaza/VentanaMostrarPlaza.java
+END
+VentanaBuscarPlaza.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ISa1415AppArcaoCod/!svn/ver/250/trunk/src/AppArcao/Presentacion/Plaza/VentanaBuscarPlaza.java
+END
+VentanaListarPlazas.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ISa1415AppArcaoCod/!svn/ver/256/trunk/src/AppArcao/Presentacion/Plaza/VentanaListarPlazas.java
+END
+VentanaCrearPlaza.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ISa1415AppArcaoCod/!svn/ver/256/trunk/src/AppArcao/Presentacion/Plaza/VentanaCrearPlaza.java
+END
+VentanaModificarPlaza.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ISa1415AppArcaoCod/!svn/ver/256/trunk/src/AppArcao/Presentacion/Plaza/VentanaModificarPlaza.java
+END

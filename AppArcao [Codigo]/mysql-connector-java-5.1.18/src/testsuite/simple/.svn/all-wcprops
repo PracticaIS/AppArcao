@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/testsuite/simple
+END
+TraversalTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/testsuite/simple/TraversalTest.java
+END
+TransactionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/testsuite/simple/TransactionTest.java
+END
+ConnectionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/testsuite/simple/ConnectionTest.java
+END
+BlobTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/testsuite/simple/BlobTest.java
+END
+SplitDBdotNameTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/testsuite/simple/SplitDBdotNameTest.java
+END
+TestLifecycleInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/testsuite/simple/TestLifecycleInterceptor.java
+END
+MiniAdminTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/testsuite/simple/MiniAdminTest.java
+END
+CallableStatementTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/testsuite/simple/CallableStatementTest.java
+END
+SimpleTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/testsuite/simple/SimpleTransformer.java
+END
+ReadOnlyCallableStatementTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/testsuite/simple/ReadOnlyCallableStatementTest.java
+END
+EscapeProcessingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/testsuite/simple/EscapeProcessingTest.java
+END
+tb2-data.txt.gz
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/testsuite/simple/tb2-data.txt.gz
+END
+MetadataTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/testsuite/simple/MetadataTest.java
+END
+DateTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/testsuite/simple/DateTest.java
+END
+UpdatabilityTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/testsuite/simple/UpdatabilityTest.java
+END
+SSLTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/testsuite/simple/SSLTest.java
+END
+NumbersTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/testsuite/simple/NumbersTest.java
+END
+XATest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/testsuite/simple/XATest.java
+END
+CompressionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/testsuite/simple/CompressionTest.java
+END
+DataSourceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/testsuite/simple/DataSourceTest.java
+END
+ResultSetTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/testsuite/simple/ResultSetTest.java
+END
+StatementsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/testsuite/simple/StatementsTest.java
+END
+CharsetTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/testsuite/simple/CharsetTests.java
+END
+ServerControllerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/testsuite/simple/ServerControllerTest.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/doc/sources
+END
+connPropsToDocbook.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/doc/sources/connPropsToDocbook.xsl
+END
+errorMapToDocbook.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/doc/sources/errorMapToDocbook.xsl
+END
+placeholder.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/doc/sources/placeholder.txt
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/doc/sources/pom.xml
+END

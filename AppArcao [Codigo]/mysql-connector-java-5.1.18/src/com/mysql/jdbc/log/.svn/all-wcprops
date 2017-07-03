@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/com/mysql/jdbc/log
+END
+StandardLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/com/mysql/jdbc/log/StandardLogger.java
+END
+LogUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/com/mysql/jdbc/log/LogUtils.java
+END
+NullLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/com/mysql/jdbc/log/NullLogger.java
+END
+LogFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/com/mysql/jdbc/log/LogFactory.java
+END
+Jdk14Logger.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/com/mysql/jdbc/log/Jdk14Logger.java
+END
+Log.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/com/mysql/jdbc/log/Log.java
+END
+Slf4JLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/com/mysql/jdbc/log/Slf4JLogger.java
+END

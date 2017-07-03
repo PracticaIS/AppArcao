@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/com/mysql/jdbc/jmx
+END
+LoadBalanceConnectionGroupManagerMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/com/mysql/jdbc/jmx/LoadBalanceConnectionGroupManagerMBean.java
+END
+LoadBalanceConnectionGroupManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/com/mysql/jdbc/jmx/LoadBalanceConnectionGroupManager.java
+END

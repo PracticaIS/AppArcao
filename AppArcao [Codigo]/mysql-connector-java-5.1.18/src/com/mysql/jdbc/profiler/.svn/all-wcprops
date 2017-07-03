@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/com/mysql/jdbc/profiler
+END
+ProfilerEventHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/com/mysql/jdbc/profiler/ProfilerEventHandler.java
+END
+LoggingProfilerEventHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/com/mysql/jdbc/profiler/LoggingProfilerEventHandler.java
+END
+ProfilerEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/com/mysql/jdbc/profiler/ProfilerEvent.java
+END

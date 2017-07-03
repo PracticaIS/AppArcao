@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ISa1415AppArcaoCod/!svn/ver/252/trunk/src/AppArcao/Presentacion/Zona
+END
+VentanaCrearZona.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ISa1415AppArcaoCod/!svn/ver/256/trunk/src/AppArcao/Presentacion/Zona/VentanaCrearZona.java
+END
+VentanaListarZonas.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ISa1415AppArcaoCod/!svn/ver/256/trunk/src/AppArcao/Presentacion/Zona/VentanaListarZonas.java
+END
+VentanaBuscarZona.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ISa1415AppArcaoCod/!svn/ver/252/trunk/src/AppArcao/Presentacion/Zona/VentanaBuscarZona.java
+END
+VentanaMostrarZona.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ISa1415AppArcaoCod/!svn/ver/256/trunk/src/AppArcao/Presentacion/Zona/VentanaMostrarZona.java
+END
+VentanaBorrarZona.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ISa1415AppArcaoCod/!svn/ver/256/trunk/src/AppArcao/Presentacion/Zona/VentanaBorrarZona.java
+END
+VentanaModificarZona.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ISa1415AppArcaoCod/!svn/ver/256/trunk/src/AppArcao/Presentacion/Zona/VentanaModificarZona.java
+END

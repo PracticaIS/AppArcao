@@ -1,0 +1,49 @@
+10
+
+dir
+252
+http://tania.fdi.ucm.es/svn/ISa1415AppArcaoCod/trunk/src/AppArcao/Negocio
+http://tania.fdi.ucm.es/svn/ISa1415AppArcaoCod
+
+
+
+2015-05-23T18:08:13.669235Z
+251
+uISa1415AppArcao
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+1516ea7b-9c07-4a6d-9608-ac2dc9cf487c
+
+Excepciones
+dir
+
+FactoriaNegocio
+dir
+
+Plaza
+dir
+
+Reserva
+dir
+
+Socio
+dir
+
+Vehiculo
+dir
+
+Zona
+dir
+

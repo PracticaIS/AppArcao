@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ISa1415AppArcaoCod/!svn/ver/252/trunk/src/AppArcao/Presentacion/Vehiculo
+END
+VentanaModificarVehiculo.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ISa1415AppArcaoCod/!svn/ver/256/trunk/src/AppArcao/Presentacion/Vehiculo/VentanaModificarVehiculo.java
+END
+VentanaListarVehiculos.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ISa1415AppArcaoCod/!svn/ver/256/trunk/src/AppArcao/Presentacion/Vehiculo/VentanaListarVehiculos.java
+END
+VentanaCrearVehiculo.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ISa1415AppArcaoCod/!svn/ver/256/trunk/src/AppArcao/Presentacion/Vehiculo/VentanaCrearVehiculo.java
+END
+VentanaBuscarVehiculo.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ISa1415AppArcaoCod/!svn/ver/252/trunk/src/AppArcao/Presentacion/Vehiculo/VentanaBuscarVehiculo.java
+END
+VentanaMostrarVehiculo.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ISa1415AppArcaoCod/!svn/ver/256/trunk/src/AppArcao/Presentacion/Vehiculo/VentanaMostrarVehiculo.java
+END
+VentanaBorrarVehiculo.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ISa1415AppArcaoCod/!svn/ver/256/trunk/src/AppArcao/Presentacion/Vehiculo/VentanaBorrarVehiculo.java
+END

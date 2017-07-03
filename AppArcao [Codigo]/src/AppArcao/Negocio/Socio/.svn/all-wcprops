@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ISa1415AppArcaoCod/!svn/ver/250/trunk/src/AppArcao/Negocio/Socio
+END
+TSocio.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ISa1415AppArcaoCod/!svn/ver/128/trunk/src/AppArcao/Negocio/Socio/TSocio.java
+END
+ServicioAplicacionSocio.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ISa1415AppArcaoCod/!svn/ver/177/trunk/src/AppArcao/Negocio/Socio/ServicioAplicacionSocio.java
+END
+TSocioVIP.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ISa1415AppArcaoCod/!svn/ver/256/trunk/src/AppArcao/Negocio/Socio/TSocioVIP.java
+END
+ServicioAplicacionSocioImp.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ISa1415AppArcaoCod/!svn/ver/253/trunk/src/AppArcao/Negocio/Socio/ServicioAplicacionSocioImp.java
+END
+TSocioNoVIP.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ISa1415AppArcaoCod/!svn/ver/256/trunk/src/AppArcao/Negocio/Socio/TSocioNoVIP.java
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/com/mysql/jdbc/exceptions/jdbc4
+END
+MySQLTimeoutException.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/com/mysql/jdbc/exceptions/jdbc4/MySQLTimeoutException.java
+END
+MySQLInvalidAuthorizationSpecException.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/com/mysql/jdbc/exceptions/jdbc4/MySQLInvalidAuthorizationSpecException.java
+END
+MySQLNonTransientException.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/com/mysql/jdbc/exceptions/jdbc4/MySQLNonTransientException.java
+END
+MySQLTransactionRollbackException.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/com/mysql/jdbc/exceptions/jdbc4/MySQLTransactionRollbackException.java
+END
+MySQLSyntaxErrorException.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/com/mysql/jdbc/exceptions/jdbc4/MySQLSyntaxErrorException.java
+END
+MySQLTransientConnectionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/com/mysql/jdbc/exceptions/jdbc4/MySQLTransientConnectionException.java
+END
+MySQLTransientException.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/com/mysql/jdbc/exceptions/jdbc4/MySQLTransientException.java
+END
+MySQLDataException.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/com/mysql/jdbc/exceptions/jdbc4/MySQLDataException.java
+END
+MySQLIntegrityConstraintViolationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/com/mysql/jdbc/exceptions/jdbc4/MySQLIntegrityConstraintViolationException.java
+END
+CommunicationsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/com/mysql/jdbc/exceptions/jdbc4/CommunicationsException.java
+END
+MySQLNonTransientConnectionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/com/mysql/jdbc/exceptions/jdbc4/MySQLNonTransientConnectionException.java
+END

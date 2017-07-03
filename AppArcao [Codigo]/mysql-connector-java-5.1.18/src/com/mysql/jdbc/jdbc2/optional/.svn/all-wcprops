@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/com/mysql/jdbc/jdbc2/optional
+END
+MysqlXADataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/com/mysql/jdbc/jdbc2/optional/MysqlXADataSource.java
+END
+JDBC4MysqlXAConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/com/mysql/jdbc/jdbc2/optional/JDBC4MysqlXAConnection.java
+END
+MysqlXAConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/com/mysql/jdbc/jdbc2/optional/MysqlXAConnection.java
+END
+MysqlDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/com/mysql/jdbc/jdbc2/optional/MysqlDataSource.java
+END
+StatementWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/com/mysql/jdbc/jdbc2/optional/StatementWrapper.java
+END
+WrapperBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/com/mysql/jdbc/jdbc2/optional/WrapperBase.java
+END
+MysqlXAException.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/com/mysql/jdbc/jdbc2/optional/MysqlXAException.java
+END
+JDBC4SuspendableXAConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/com/mysql/jdbc/jdbc2/optional/JDBC4SuspendableXAConnection.java
+END
+MysqlDataSourceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/com/mysql/jdbc/jdbc2/optional/MysqlDataSourceFactory.java
+END
+JDBC4MysqlPooledConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/com/mysql/jdbc/jdbc2/optional/JDBC4MysqlPooledConnection.java
+END
+PreparedStatementWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/com/mysql/jdbc/jdbc2/optional/PreparedStatementWrapper.java
+END
+MysqlConnectionPoolDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/com/mysql/jdbc/jdbc2/optional/MysqlConnectionPoolDataSource.java
+END
+JDBC4StatementWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/com/mysql/jdbc/jdbc2/optional/JDBC4StatementWrapper.java
+END
+SuspendableXAConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/com/mysql/jdbc/jdbc2/optional/SuspendableXAConnection.java
+END
+JDBC4ConnectionWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/com/mysql/jdbc/jdbc2/optional/JDBC4ConnectionWrapper.java
+END
+CallableStatementWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/com/mysql/jdbc/jdbc2/optional/CallableStatementWrapper.java
+END
+MysqlPooledConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/com/mysql/jdbc/jdbc2/optional/MysqlPooledConnection.java
+END
+JDBC4PreparedStatementWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/com/mysql/jdbc/jdbc2/optional/JDBC4PreparedStatementWrapper.java
+END
+ConnectionWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/com/mysql/jdbc/jdbc2/optional/ConnectionWrapper.java
+END
+JDBC4CallableStatementWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/com/mysql/jdbc/jdbc2/optional/JDBC4CallableStatementWrapper.java
+END
+MysqlXid.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/com/mysql/jdbc/jdbc2/optional/MysqlXid.java
+END

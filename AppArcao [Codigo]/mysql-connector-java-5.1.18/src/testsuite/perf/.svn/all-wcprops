@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/testsuite/perf
+END
+RetrievalPerfTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/testsuite/perf/RetrievalPerfTest.java
+END
+BasePerfTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/testsuite/perf/BasePerfTest.java
+END
+LoadStorePerfTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/testsuite/perf/LoadStorePerfTest.java
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/com/mysql/jdbc/util
+END
+ReadAheadInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/com/mysql/jdbc/util/ReadAheadInputStream.java
+END
+ServerController.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/com/mysql/jdbc/util/ServerController.java
+END
+PropertiesDocGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/com/mysql/jdbc/util/PropertiesDocGenerator.java
+END
+TimezoneDump.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/com/mysql/jdbc/util/TimezoneDump.java
+END
+ErrorMappingsDocGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/com/mysql/jdbc/util/ErrorMappingsDocGenerator.java
+END
+BaseBugReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/com/mysql/jdbc/util/BaseBugReport.java
+END
+ResultSetUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/com/mysql/jdbc/util/ResultSetUtil.java
+END
+VersionFSHierarchyMaker.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/com/mysql/jdbc/util/VersionFSHierarchyMaker.java
+END
+LRUCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ISa1415AppArcaoCod/!svn/ver/20/trunk/mysql-connector-java-5.1.18/src/com/mysql/jdbc/util/LRUCache.java
+END
